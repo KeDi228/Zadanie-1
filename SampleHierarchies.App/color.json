@@ -1,0 +1,6 @@
+[
+	{"ScreenNumber":1,"MainTextColor":"Cyan","MainBackgroundColor":"Black"},
+	{"ScreenNumber":2,"MainTextColor":"Magenta","MainBackgroundColor":"Black"},
+	{"ScreenNumber":3,"MainTextColor":"Yellow","MainBackgroundColor":"Black"},	
+	{"ScreenNumber":4,"MainTextColor":"White","MainBackgroundColor":"Black"},	
+]
